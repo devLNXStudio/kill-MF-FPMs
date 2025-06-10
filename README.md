@@ -41,7 +41,7 @@ Example to run every 5 minutes:
 bash
 Kopiuj
 Edytuj
-*/5 * * * * /path/to/kill_mf_fpm.sh
+* * * * * /path/to/kill_mf_fpm.sh
 📲 How to Connect Discord Webhook
 Go to your Discord server and create a new Webhook:
 
