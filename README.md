@@ -30,7 +30,7 @@ bash
 ./kill_mf_fpm.sh
 (Optional) Automate with cron:
 
-Example to run every 5 minutes:
+Example to run every 1 minute:
 
 bash
 * * * * * /path/to/kill_mf_fpm.sh
